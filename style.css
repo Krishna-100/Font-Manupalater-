@@ -1,0 +1,22 @@
+#title{
+    font-size: 28px;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    width: 100%;
+    top: 0;
+    margin: 0;
+    background-color: yellow;
+    letter-spacing: 5px;
+}
+
+#footer{
+    bottom: 0;
+    width: 100%;
+    background-color: cornflowerblue;
+    font-style: italic;
+    font-size: 24px;
+    letter-spacing: 2px;
+    position: fixed;
+    text-align: center;
+}
